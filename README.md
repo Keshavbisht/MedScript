@@ -64,8 +64,8 @@
 
 
 
-## 👨‍💻 Developer
 
+---
 <div align="center">
 
 **Keshav Bisht**
