@@ -1,6 +1,6 @@
 # 🩺 MediScript – Digital Prescription Management App
 
-**MediScript** is an iOS application built with **Swift & SwiftUI** that replaces traditional handwritten prescriptions with secure, sharable, and organized **digital prescriptions**.
+**MediScript** is a full-stack iOS application built with **Swift & SwiftUI** (frontend) and **Django** (backend). It replaces traditional handwritten prescriptions with secure, sharable, and organized **digital prescriptions**, providing a modern healthcare solution for doctors and patients.
 
 ## 🚩 Problem
 
