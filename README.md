@@ -1,66 +1,55 @@
-# MedScript - Digital Health Records 🏥📱
+# 🩺 MediScript – Digital Prescription Management App
 
-<div align="center">
+**MediScript** is an iOS application built with **Swift & SwiftUI** that replaces traditional handwritten prescriptions with secure, sharable, and organized **digital prescriptions**.
 
-![iOS](https://img.shields.io/badge/iOS-14.0+-blue.svg?style=for-the-badge&logo=apple)
-![Swift](https://img.shields.io/badge/Swift-5.0+-orange.svg?style=for-the-badge&logo=swift)
-![Xcode](https://img.shields.io/badge/Xcode-12.0+-blue.svg?style=for-the-badge&logo=xcode)
-![License](https://img.shields.io/badge/License-MIT-green.svg?style=for-the-badge)
+## 🚩 Problem
 
-**A comprehensive iOS application for managing digital health records and medical prescriptions**
+Traditional prescription management faces several critical issues:
 
-[Features](#-features) • [Installation](#-installation) • [Usage](#-usage) • [Architecture](#-architecture) • [Contributing](#-contributing)
+- Paper prescriptions are often **lost, damaged, or misplaced**
+- **Unreadable handwriting** makes it hard for patients and pharmacists to understand medications
+- No proper system exists for patients to **maintain past medical records**
+- Lack of easy sharing mechanisms between patients, doctors, and pharmacies
 
-</div>
+## 💡 Solution
 
----
+MediScript provides a **modern digital platform** for doctors and patients:
 
-## 🎯 Project Overview
+- Doctors can create **digital prescriptions** directly in the app
+- Patients can **store, track, and access** their complete prescription history
+- Prescriptions can be **shared instantly via WhatsApp**
+- **PDF Export:** Generate professional, readable PDF prescriptions for pharmacy use
+- Secure cloud storage ensures prescriptions are never lost
 
-**MedScript** is a sophisticated iOS application designed to digitize and streamline health record management. Built with native iOS technologies, it provides healthcare professionals and patients with a secure, intuitive platform for managing medical prescriptions, health records, and patient data.
+## ✅ Key Benefits
 
-### 🎪 What Makes MedScript Special?
+### For Patients
+- Never lose prescriptions again – maintain a **digital health record**
+- Prescriptions are **clear, legible, and easy to access**
+- Convenient **sharing of medical history** with doctors and pharmacies
+- Track medication schedules and refill reminders
 
-- **📱 Native iOS Experience**: Built specifically for iOS using Swift and UIKit/SwiftUI
-- **🔐 Privacy-First Design**: Implements healthcare-grade security standards
-- **👩‍⚕️ Professional-Grade Tools**: Designed for real-world healthcare scenarios
-- **📊 Comprehensive Records**: Complete health record management system
-- **🌟 Modern UI/UX**: Follows Apple's Human Interface Guidelines
+### For Doctors
+- Saves time with **digital templates** and quick sharing options
+- Improves **accuracy, professionalism, and transparency**
+- Ability to **export prescriptions as PDFs** for official use
+- Reduced administrative overhead
 
----
+## ⚙️ Tech Stack
 
-## ✨ Features
+- **Language:** Swift
+- **Framework:** SwiftUI
+- **Platform:** iOS
+- **Minimum iOS Version:** iOS 15.0+
 
-### 🏥 Health Record Management
-```swift
-// Core health record capabilities
-- 📋 Digital Health Records Creation & Management
-- 💊 Prescription Writing & Management  
-- 🔄 Medical History Tracking
-- 📅 Appointment Scheduling
-- 📈 Health Analytics & Reports
-- 🔍 Quick Search & Filtering
-```
+## 🚀 Features
 
-### 👨‍⚕️ For Healthcare Providers
-- **Patient Database**: Comprehensive patient information management
-- **Digital Prescriptions**: Create, edit, and manage prescriptions
-- **Medical History**: Access complete patient medical timeline
-- **Analytics Dashboard**: Track patient outcomes and treatment effectiveness
-
-
-### 👤 For Patients
-- **Personal Health Records**: Maintain comprehensive health profiles
-- **Medication Tracking**: Monitor prescriptions and adherence
-
-- **Health Reports**: Generate detailed health summaries
-
-### 🔧 Technical Features
-
-- **☁️ iCloud Sync**: Secure data synchronization across devices
-- **📱 Universal App**: Optimized for iPhone and iPad
-- **🌙 Dark Mode**: Full iOS dark mode support
-
+- [x] Digital prescription creation
+- [x] PDF export functionality
+- [x] WhatsApp integration for sharing
+- [x] Patient prescription history
+- [x] Doctor dashboard
+- [x] Secure data storage
 
 
 
@@ -81,6 +70,5 @@
 
 **⭐ Star this repository if you find it helpful!**
 
-*Made with ❤️ for the healthcare community*
 
 </div>
