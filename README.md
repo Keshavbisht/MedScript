@@ -20,6 +20,7 @@ MediScript provides a **modern digital platform** for doctors and patients:
 - Prescriptions can be **shared instantly via WhatsApp**
 - **PDF Export:** Generate professional, readable PDF prescriptions for pharmacy use
 - Secure cloud storage ensures prescriptions are never lost
+- Secure cloud-based backend (Django + REST APIs) ensures prescriptions are never lost
 
 ## ✅ Key Benefits
 
@@ -34,13 +35,15 @@ MediScript provides a **modern digital platform** for doctors and patients:
 - Improves **accuracy, professionalism, and transparency**
 - Ability to **export prescriptions as PDFs** for official use
 - Reduced administrative overhead
+- Secure patient data management via the Django backend
 
 ## ⚙️ Tech Stack
 
 - **Language:** Swift
 - **Framework:** SwiftUI
+- **Backend:** Django (REST Framework)
+- **Database:** SQLite
 - **Platform:** iOS
-- **Minimum iOS Version:** iOS 15.0+
 
 ## 🚀 Features
 
@@ -49,7 +52,8 @@ MediScript provides a **modern digital platform** for doctors and patients:
 - [x] WhatsApp integration for sharing
 - [x] Patient prescription history
 - [x] Doctor dashboard
-- [x] Secure data storage
+- [x] Secure data storage with Django backend
+- [x] User authentication (Doctor/Patient roles)
 
 
 
